@@ -1,0 +1,14 @@
+numpy
+fastapi
+fastapi[all]
+uvicorn
+logging
+pydantic
+joblib
+scipy
+scikit-learn
+matplotlib
+pandas
+gunicorn
+uvloop
+httptools
